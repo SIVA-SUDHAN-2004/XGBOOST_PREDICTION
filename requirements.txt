@@ -1,4 +1,5 @@
 fastapi
-uvicorn[standard]
-numpy
+uvicorn
+pandas
 scikit-learn
+xgboost
